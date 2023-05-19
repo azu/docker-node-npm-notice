@@ -1,0 +1,13 @@
+{
+  "name": "docker-node-npm-notice",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "npm -v && node index.js && echo 'ok' || echo 'it is failed by npm notice'"
+  },
+  "keywords": [],
+  "author": "azu",
+  "license": "MIT",
+  "packageManager": "npm@8.5.5"
+}
